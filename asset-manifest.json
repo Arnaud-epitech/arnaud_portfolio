@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/arnaud_portfolio/static/css/main.7195c11d.chunk.css",
-    "main.js": "/arnaud_portfolio/static/js/main.a5ffb2c6.chunk.js",
-    "main.js.map": "/arnaud_portfolio/static/js/main.a5ffb2c6.chunk.js.map",
+    "main.js": "/arnaud_portfolio/static/js/main.fb9fbbf5.chunk.js",
+    "main.js.map": "/arnaud_portfolio/static/js/main.fb9fbbf5.chunk.js.map",
     "runtime-main.js": "/arnaud_portfolio/static/js/runtime-main.a9b29555.js",
     "runtime-main.js.map": "/arnaud_portfolio/static/js/runtime-main.a9b29555.js.map",
     "static/css/2.27175f2b.chunk.css": "/arnaud_portfolio/static/css/2.27175f2b.chunk.css",
@@ -12,6 +12,7 @@
     "static/css/2.27175f2b.chunk.css.map": "/arnaud_portfolio/static/css/2.27175f2b.chunk.css.map",
     "static/css/main.7195c11d.chunk.css.map": "/arnaud_portfolio/static/css/main.7195c11d.chunk.css.map",
     "static/js/2.94d989dc.chunk.js.LICENSE.txt": "/arnaud_portfolio/static/js/2.94d989dc.chunk.js.LICENSE.txt",
+    "static/media/CV Arnaud COLOMBE 2021 v8.c0fbd8cc.pdf": "/arnaud_portfolio/static/media/CV Arnaud COLOMBE 2021 v8.c0fbd8cc.pdf",
     "static/media/milligram.css": "/arnaud_portfolio/static/media/background.0771d0d2.jpg",
     "static/media/css.4e67641b.png": "/arnaud_portfolio/static/media/css.4e67641b.png",
     "static/media/drapeau_anglais.31ca2ffc.jpg": "/arnaud_portfolio/static/media/drapeau_anglais.31ca2ffc.jpg",
@@ -31,6 +32,6 @@
     "static/css/2.27175f2b.chunk.css",
     "static/js/2.94d989dc.chunk.js",
     "static/css/main.7195c11d.chunk.css",
-    "static/js/main.a5ffb2c6.chunk.js"
+    "static/js/main.fb9fbbf5.chunk.js"
   ]
 }
